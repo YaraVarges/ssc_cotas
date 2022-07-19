@@ -1,0 +1,32 @@
+{
+    "candidatos": [
+        {
+            "nome": "?",
+            "idade": 0,
+            "escolaridade": "?",
+            "nota": "?",
+            "endereco": "?", 
+            "cor": "?",
+            "renda": "?",
+            "fotos": [
+                "/home/yara/Área de trabalho/ssc_cotas/faces/elliot1.jpg",
+                "/home/yara/Área de trabalho/ssc_cotas/faces/elliot2.jpg",
+                "/home/yara/Área de trabalho/ssc_cotas/faces/elliot3.jpg"
+            ]
+        },
+        {
+            "nome": "?",
+            "idade": 0,
+            "escolaridade": "?",
+            "nota": "?",
+            "endereco": "?", 
+            "cor": "?",
+            "renda": "?",
+            "fotos": [
+                "/home/yara/Área de trabalho/ssc_cotas/faces/darlene1.jpg",
+                "/home/yara/Área de trabalho/ssc_cotas/faces/darlene2.jpg",
+                "/home/yara/Área de trabalho/ssc_cotas/faces/darlene3.jpg"
+            ]
+        }             
+    ]
+}
